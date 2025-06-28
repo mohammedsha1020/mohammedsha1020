@@ -51,10 +51,10 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/mohammedsha1020/mohammedsha1020/output/snake.svg" alt="Snake animation" />
-
-###
-
-<p align="left">Hello World!!</p>
+<div align="center">
+  <a href="https://open.spotify.com/user/SA Beast Sha">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=SA%20Beast%20Sha&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
