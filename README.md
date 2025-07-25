@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mohammed sha and I'm a Studen, from Pollachi.</h2>
+<h2 align="left">Hi 👋! My name is Mohammed sha and I'm a Student, from Pollachi.</h2>
 
 ###
 
